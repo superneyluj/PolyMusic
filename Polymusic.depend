@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1652780185 source:c:\users\superneiluj\desktop\polymusic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/fmod.h"
+
+1608203536 c:\users\superneiluj\desktop\polymusic\inc\fmod.h
+	"fmod_common.h"
+
+1608203536 c:\users\superneiluj\desktop\polymusic\inc\fmod_common.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_output.h"
+
+1608203536 c:\users\superneiluj\desktop\polymusic\inc\fmod_codec.h
+
+1608203536 c:\users\superneiluj\desktop\polymusic\inc\fmod_dsp.h
+	"fmod_dsp_effects.h"
+
+1608203536 c:\users\superneiluj\desktop\polymusic\inc\fmod_dsp_effects.h
+
+1608203536 c:\users\superneiluj\desktop\polymusic\inc\fmod_output.h
+
+1652817213 source:c:\users\superneiluj\onedrive\bureau\polymusic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/fmod.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic\inc\fmod.h
+	"fmod_common.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic\inc\fmod_common.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_output.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic\inc\fmod_codec.h
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic\inc\fmod_dsp.h
+	"fmod_dsp_effects.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic\inc\fmod_dsp_effects.h
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic\inc\fmod_output.h
+
+1653072930 source:c:\users\superneiluj\onedrive\bureau\polymusic18052022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/fmod.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic18052022\inc\fmod.h
+	"fmod_common.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic18052022\inc\fmod_common.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_output.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic18052022\inc\fmod_codec.h
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic18052022\inc\fmod_dsp.h
+	"fmod_dsp_effects.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic18052022\inc\fmod_dsp_effects.h
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polymusic18052022\inc\fmod_output.h
+
+1653320640 source:c:\users\superneiluj\onedrive\bureau\polytest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/fmod.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polytest\inc\fmod.h
+	"fmod_common.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polytest\inc\fmod_common.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_output.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polytest\inc\fmod_codec.h
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polytest\inc\fmod_dsp.h
+	"fmod_dsp_effects.h"
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polytest\inc\fmod_dsp_effects.h
+
+1608203536 c:\users\superneiluj\onedrive\bureau\polytest\inc\fmod_output.h
+
+1653320734 source:e:\polytest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/fmod.h"
+
+1608203536 e:\polytest\inc\fmod.h
+	"fmod_common.h"
+
+1608203536 e:\polytest\inc\fmod_common.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_output.h"
+
+1608203536 e:\polytest\inc\fmod_codec.h
+
+1608203536 e:\polytest\inc\fmod_dsp.h
+	"fmod_dsp_effects.h"
+
+1608203536 e:\polytest\inc\fmod_dsp_effects.h
+
+1608203536 e:\polytest\inc\fmod_output.h
+
+1654936956 source:c:\users\superneiluj\desktop\poly09062022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+	"inc/fmod.h"
+
+1608203536 c:\users\superneiluj\desktop\poly09062022\inc\fmod.h
+	"fmod_common.h"
+
+1608203536 c:\users\superneiluj\desktop\poly09062022\inc\fmod_common.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_output.h"
+
+1608203536 c:\users\superneiluj\desktop\poly09062022\inc\fmod_codec.h
+
+1608203536 c:\users\superneiluj\desktop\poly09062022\inc\fmod_dsp.h
+	"fmod_dsp_effects.h"
+
+1608203536 c:\users\superneiluj\desktop\poly09062022\inc\fmod_dsp_effects.h
+
+1608203536 c:\users\superneiluj\desktop\poly09062022\inc\fmod_output.h
+
+1654937542 source:c:\users\superneiluj\desktop\poly music\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+	"inc/fmod.h"
+
+1608203536 c:\users\superneiluj\desktop\poly music\inc\fmod.h
+	"fmod_common.h"
+
+1608203536 c:\users\superneiluj\desktop\poly music\inc\fmod_common.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_output.h"
+
+1608203536 c:\users\superneiluj\desktop\poly music\inc\fmod_codec.h
+
+1608203536 c:\users\superneiluj\desktop\poly music\inc\fmod_dsp.h
+	"fmod_dsp_effects.h"
+
+1608203536 c:\users\superneiluj\desktop\poly music\inc\fmod_dsp_effects.h
+
+1608203536 c:\users\superneiluj\desktop\poly music\inc\fmod_output.h
+

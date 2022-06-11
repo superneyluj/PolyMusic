@@ -1,0 +1,3 @@
+ID1;Orelsan;San;Musiques\\San.mp3
+ID2;Orelsan;Shonen;Musiques\\Shonen.mp3
+ID3;Rick Astley;Never Gonna Give You Up;Musiques\\NeverGonnaGiveYouUp.mp3
