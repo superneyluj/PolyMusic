@@ -65,6 +65,7 @@ void Menu_Principal(){
 
         printf("---------- PolyMusic 2022 ----------\n\n");
         printf("---------- Bienvenue ----------\n\n");
+        printf("---------- By Julien Sicot ----------\n\n");
         printf("1- Mode Utilisateur\n");
         printf("2- Mode Administrateur\n");
         printf("3- Fermer le programme\n");
